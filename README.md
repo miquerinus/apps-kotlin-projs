@@ -1,4 +1,4 @@
-<h2> About: Kotlin examplos ... </h2> 
+<h2> About: Kotlin exemplos ... </h2> 
 
 - Exemplos de codigos sobre aspectos da linguagem Kotlin.
 - Aspectos como variaveis
